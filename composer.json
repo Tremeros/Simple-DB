@@ -1,0 +1,19 @@
+{
+    "name": "gachette/simple-db-package",
+    "description": "Simple orm package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gachette\\SimpleDbPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paweł",
+            "email": "pawel.tylczynski@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
